@@ -1,0 +1,11 @@
+models/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+audio/fillers/*.wav
+session_*.json
+logs/
+.DS_Store
