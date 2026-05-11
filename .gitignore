@@ -9,3 +9,9 @@ audio/fillers/*.wav
 session_*.json
 logs/
 .DS_Store
+src_copy/
+voices/
+*.profraw
+*.save
+test/*.jpg
+src_copy/
