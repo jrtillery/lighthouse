@@ -2,7 +2,6 @@
 
 **A screen-free AI learning companion for children ages 4–8, running entirely on-device with Gemma 4.**
 
-> **Note:** This project is actively under development. Setup instructions and file references will be accurate once the codebase is complete. Check back before the submission deadline (May 18, 2026).
 
 Lighthouse is a small hardware device that talks with children. A child walks up to it, says something, and Lighthouse responds with voice. There is no app, no account, no display, no feed. It runs entirely offline on a Raspberry Pi 5 — all speech recognition, language generation, and speech synthesis happen locally. No data leaves the room.
 
